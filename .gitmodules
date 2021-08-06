@@ -1,0 +1,3 @@
+[submodule "fvtt-shared-library"]
+	path = src/shared
+	url = git@github.com:ruipin/fvtt-shared-library.git
